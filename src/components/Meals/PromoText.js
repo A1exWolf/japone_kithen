@@ -1,8 +1,8 @@
-import styles from './PromoText.module.css';
+import styles from "./PromoText.module.css";
 
 const PromoText = () => {
   return (
-    <section className={styles['promo-text']}>
+    <section className={styles["promo-text"]}>
       <h2>Онлайн Суши Ресторан Япона Кухня</h2>
       <p>
         Япона Кухня - это онлайн суши-ресторан, в котором любимые суши и сашими,
